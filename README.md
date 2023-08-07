@@ -2,9 +2,6 @@
 <br /> 
 
                     
-`**Digital Craftsman (Developer / Programmer)**`
-
-                    
 
 <p align="left"></p>
 <p align="left"> 
@@ -25,10 +22,10 @@
 <br />
 
                     
-
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=Html,Css,Figma,Android Studio,Javascript,C++,C,Blender,Python&perline=9"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=flutter,dart,go,html,css,mysql,c,firebase,git,python"  />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="cplusplus" width="70px"height="70px"/> </a>
 </p>
 <br />
 
