@@ -51,21 +51,12 @@
 <br/>
 <br />
 
-<p><a href="https://github.com/lipsalee#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=lipsalee&theme=nightowl#gh-dark-mode-only" alt="lipsalee" /></a>
-<a href="https://github.com/lipsalee#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=lipsalee&theme=vue#gh-light-mode-only" alt="lipsalee" /></a></p>
-<br/>
+
 
 ---
 
 
                     
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/lipsalee/#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lipsalee&repo=&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/lipsalee/#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lipsalee&repo=&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
 
                     
 
