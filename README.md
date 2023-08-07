@@ -24,7 +24,7 @@
                     
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="700px"  src="https://skillicons.dev/icons?i=flutter,dart,go,html,css,mysql,c,firebase,git,python"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=javascript,go,html,css,mysql,c,firebase,git,python"  />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="cplusplus" width="70px"height="70px"/> </a>
 </p>
 <br />
