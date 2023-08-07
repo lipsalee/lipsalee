@@ -1,6 +1,6 @@
 <h1> Lipsa Priyadarshini Mohanty</h1>
 <br /> 
-
+<p align="left">As a designer with web development skills, I possess a unique combination of creative design expertise and technical knowledge of web development. I am passionate about crafting visually appealing and user-centric web experiences that seamlessly blend aesthetics with functionality.</p>
                     
 
 <p align="left"></p>
