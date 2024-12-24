@@ -31,7 +31,7 @@
 
                     
 
-<!-- <p><a href="https://github.com/lipsalee#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsalee&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="lipsalee" /></a>
+ <p><a href="https://github.com/lipsalee#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsalee&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="lipsalee" /></a>
   <a href="https://github.com/lipsalee#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsalee&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="lipsalee" /></a>
 </p>
 
@@ -55,7 +55,7 @@
 
                     
 
--->                  
+                
 
 <h2>Connect With Me</h2> 
 <p align="left">
