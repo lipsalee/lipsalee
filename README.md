@@ -6,7 +6,7 @@
 <p align="left"></p>
 <p align="left"> 
   <a href="https://github.com/lipsalee?tab=repositories&sort=stargazers#gh-light-mode-only">
-<!--     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lipsalee?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a> -->
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lipsalee?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
   
   <a href="https://github.com/lipsalee?tab=repositories&sort=stargazers#gh-dark-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lipsalee?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
@@ -25,13 +25,13 @@
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="700px"  src="https://skillicons.dev/icons?i=html,css,mysql,c,git,python,django,cpp"  />
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="cplusplus" width="70px"height="70px"/> </a>
+<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="cplusplus" width="70px"height="70px"/> </a> -->
 </p>
 <br />
 
                     
 
-<p><a href="https://github.com/lipsalee#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsalee&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="lipsalee" /></a>
+<!-- <p><a href="https://github.com/lipsalee#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsalee&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="lipsalee" /></a>
   <a href="https://github.com/lipsalee#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsalee&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="lipsalee" /></a>
 </p>
 
@@ -55,12 +55,12 @@
 
                     
 
-                    
+-->                  
 
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/LipsaLee" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LipsaLee" /></a>
-<a href="https://instagram.com/_._.lee_._" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.lee_._" /></a>
+<!-- <a href="https://instagram.com/_._.lee_._" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.lee_._" /></a> -->
 <a href="www.linkedin.com/in/lipsa-priyadarshini-mohanty-189579231" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
